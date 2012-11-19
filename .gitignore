@@ -1,0 +1,10 @@
+*~
+buildout.cfg
+parts
+src
+.*.cfg
+.DS_Store
+bin
+develop-eggs
+*.sublime-project
+*.sublime-workspace
