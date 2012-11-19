@@ -1,0 +1,27 @@
+[buildout]
+
+
+extends = 
+
+# Allways have the following line
+  base.cfg
+
+# Uncomment the following line to enable production configuration
+#  production.cfg
+
+# Comment out the following line in production
+  devel.cfg
+
+
+# What to build
+parts +=
+    instance
+    varnish
+    cache-config
+    supervisor
+
+
+[optimize]
+# choose the optimization you desire
+<= optimize-develop
+# <= otimize-ec2-micro
