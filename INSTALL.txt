@@ -1,0 +1,13 @@
+
+
+Instalation Instructions
+
+For ubuntu 12.04 with the following installed (it is just my prefered env):
+$ apt-get update
+$ apt-get upgrade
+$ apt-get install git vim python-setuptools build-essential python-virtualenv python-dev
+
+$ cd ~
+$ mkdir env
+$ cd env
+$ virtualenv --distribute --no-site-packages py2.7
