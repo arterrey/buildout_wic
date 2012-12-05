@@ -5,9 +5,16 @@ Instalation Instructions
 For ubuntu 12.04 with the following installed (it is just my prefered env):
 $ apt-get update
 $ apt-get upgrade
-$ apt-get install git vim python-setuptools build-essential python-virtualenv python-dev
+$ apt-get install git vim python-setuptools build-essential python-virtualenv python-dev libxml2-dev libxslt1-dev libjpeg-dev libpng12-dev libfreetype6-dev liblcms1-dev liblcms2-dev
 
 $ cd ~
 $ mkdir env
 $ cd env
 $ virtualenv --distribute --no-site-packages py2.7
+
+
+$ useradd --gid wic --system front
+$ useradd --gid wic --system app
+
+# Securing permissions in the production directory
+
