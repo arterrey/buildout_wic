@@ -9,6 +9,9 @@ extends =
 # Uncomment the following line to enable production configuration
 #  production.cfg
 
+# Uncomment the following line to enable wic specific production configuration
+#  production_wic.cfg
+
 # Comment out the following line in production
   devel.cfg
 
