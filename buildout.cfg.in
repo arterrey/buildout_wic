@@ -15,10 +15,13 @@ extends =
 
 # What to build
 parts +=
+    zeo
     instance
     varnish
     cache-config
     supervisor
+
+    backup
 
 
 [optimize]
