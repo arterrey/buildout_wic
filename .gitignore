@@ -1,11 +1,9 @@
 *~
-buildout.cfg
-parts
-src
+/var
+/buildout.cfg
 .*.cfg
+/bin
+/parts
+/src
+/develop-eggs
 .DS_Store
-bin
-develop-eggs
-*.sublime-project
-*.sublime-workspace
-var
