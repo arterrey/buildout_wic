@@ -1,0 +1,292 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+		]
+	},
+	"buffers":
+	[
+		{
+			"file": "INSTALL.txt",
+			"settings":
+			{
+				"buffer_size": 524,
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "/Users/arterrey/Develop/wesleyic-static/index.html",
+			"settings":
+			{
+				"buffer_size": 2609,
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "production.cfg",
+			"settings":
+			{
+				"buffer_size": 482,
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "/Volumes/KINGSTON/.fseventsd/fseventsd-uuid",
+			"settings":
+			{
+				"buffer_size": 36,
+				"line_ending": "Unix"
+			}
+		}
+	],
+	"build_system": "",
+	"command_palette":
+	{
+		"height": 0.0,
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"console":
+	{
+		"height": 0.0
+	},
+	"distraction_free":
+	{
+		"menu_visible": true,
+		"show_minimap": false,
+		"show_open_files": false,
+		"show_tabs": false,
+		"side_bar_visible": false,
+		"status_bar_visible": false
+	},
+	"file_history":
+	[
+		"/Users/arterrey/env/subproc/match_communicate.py",
+		"/Users/arterrey/Desktop/PC6.py",
+		"/Users/arterrey/Downloads/PC6-v2.py",
+		"/Users/arterrey/ch/zippy.py",
+		"/Users/arterrey/env/subproc/match.py",
+		"/Users/arterrey/env/subproc/player1.py",
+		"/Users/arterrey/lightning/bolt/__diazo-theme/rules.xml",
+		"/Users/arterrey/lightning/bolt/nginx.conf",
+		"/Users/arterrey/lightning/bolt/ploneconf.xsl",
+		"/Users/arterrey/lightning/bolt/__diazo-theme/plone.html",
+		"/Users/arterrey/lightning/buildout.cfg",
+		"/Users/arterrey/lightning/bolt/mangle.xml",
+		"/Users/arterrey/lightning/bolt/__diazo-theme/test.txt",
+		"/Users/arterrey/lightning/bolt/__diazo-theme/test.html",
+		"/Users/arterrey/lightning/parts/nginx-build/conf/nginx.conf",
+		"/Users/arterrey/ploneconf/sprint/src/plone.app.securityalert/src/plone/app/securityalert/tests/testannouncement.rss",
+		"/Users/arterrey/ploneconf/ex6/src/acme.custom/src/acme/custom/browser/helpers.py",
+		"/Users/arterrey/ploneconf/ex6/src/acme.custom/src/acme/custom/tests/test_views.py",
+		"/Users/arterrey/ploneconf/ex2/versions.cfg",
+		"/Users/arterrey/ploneconf/ex2/buildout.cfg"
+	],
+	"find":
+	{
+		"height": 35.0
+	},
+	"find_in_files":
+	{
+		"height": 0.0,
+		"where_history":
+		[
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": true,
+		"find_history":
+		[
+			"Main"
+		],
+		"highlight": true,
+		"in_selection": false,
+		"preserve_case": false,
+		"regex": false,
+		"replace_history":
+		[
+		],
+		"reverse": false,
+		"show_context": true,
+		"use_buffer2": true,
+		"whole_word": false,
+		"wrap": true
+	},
+	"groups":
+	[
+		{
+			"selected": 3,
+			"sheets":
+			[
+				{
+					"buffer": 0,
+					"file": "INSTALL.txt",
+					"settings":
+					{
+						"buffer_size": 524,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								349,
+								349
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/Text/Plain text.tmLanguage"
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"type": "text"
+				},
+				{
+					"buffer": 1,
+					"file": "/Users/arterrey/Develop/wesleyic-static/index.html",
+					"settings":
+					{
+						"buffer_size": 2609,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								2462,
+								2462
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/HTML/HTML.tmLanguage",
+							"tab_size": 4,
+							"translate_tabs_to_spaces": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 898.0,
+						"zoom_level": 1.0
+					},
+					"type": "text"
+				},
+				{
+					"buffer": 2,
+					"file": "production.cfg",
+					"settings":
+					{
+						"buffer_size": 482,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								164,
+								164
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/Text/Plain text.tmLanguage"
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"type": "text"
+				},
+				{
+					"buffer": 3,
+					"file": "/Volumes/KINGSTON/.fseventsd/fseventsd-uuid",
+					"settings":
+					{
+						"buffer_size": 36,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								0,
+								0
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/Text/Plain text.tmLanguage"
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"type": "text"
+				}
+			]
+		}
+	],
+	"incremental_find":
+	{
+		"height": 0.0
+	},
+	"input":
+	{
+		"height": 0.0
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			]
+		],
+		"cols":
+		[
+			0.0,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			1.0
+		]
+	},
+	"menu_visible": true,
+	"replace":
+	{
+		"height": 0.0
+	},
+	"save_all_on_build": true,
+	"select_file":
+	{
+		"height": 0.0,
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 0.0,
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"show_minimap": true,
+	"show_open_files": false,
+	"show_tabs": true,
+	"side_bar_visible": true,
+	"side_bar_width": 168.0,
+	"status_bar_visible": true
+}
